@@ -8,11 +8,11 @@ Spring Boot Starter project for Spring Batch Admin
 
 2) Import into IDE of execute JAR 
 
-     java 
+     $ java com.khs.config.BopotBatchAdminConfig
      
-3) Open localhost:8080 in browser
+3) Open `localhost:8080` in browser
 
-
+[]()
 
 
 
