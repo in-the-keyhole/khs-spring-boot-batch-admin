@@ -12,7 +12,7 @@ Spring Boot Starter project for Spring Batch Admin
      
 3) Open `localhost:8080` in browser
 
-![khs-spring-boot-batch-admin/spring-boot-admin.png]()
+![spring-boot-admin.png]()
 
 
 
